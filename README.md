@@ -3,7 +3,7 @@ RAG AI Agent with Pinecone Vector Database
 This project implements a Retrieval-Augmented Generation (RAG) AI agent that stores data as vector embeddings in Pinecone and retrieves relevant information to answer user queries accurately.
 It combines semantic search with generative AI to produce context-aware responses.
 
-🚀 How It Works
+#How It Works
 
 Data Ingestion :
 Documents or text data are collected.
@@ -20,3 +20,9 @@ Retrieved context is passed to the AI model.
 
 Response Generation :
 The AI agent generates a contextual and accurate answer using the retrieved data.
+
+#Tech Stack :
+RAG Architecture
+Pinecone (Vector Database)
+Embedding Model
+AI Language Model
